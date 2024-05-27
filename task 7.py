@@ -24,3 +24,8 @@ if user_first_order or order_cost > 1000:
     print("Вы получаете скидку!")
 else:
     print("Скидка не доступна.")
+
+
+
+
+    
